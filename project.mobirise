@@ -45,10 +45,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#fff8e0"
+              "background": "#abdbf2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#fff3cc"
+              "background": "#99d3ef"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -57,7 +57,7 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-p",
           "_params": {
-            "bgColor": "#fff8e0",
+            "bgColor": "#abdbf2",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
@@ -96,7 +96,10 @@
               "text-align": "left"
             },
             "P": {
-              "color": "#fafafa"
+              "color": "#fafafa",
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_anchor": "header1-f",
@@ -120,7 +123,7 @@
             "showArrow": true
           },
           "title": "Index",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "<b>Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Ga verder</a> "
         },
         {
@@ -190,7 +193,7 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-p",
           "_params": {
-            "bgColor": "#fff8e0",
+            "bgColor": "#abdbf2",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",
@@ -368,7 +371,7 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-p",
           "_params": {
-            "bgColor": "#fff8e0",
+            "bgColor": "#abdbf2",
             "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#000000",

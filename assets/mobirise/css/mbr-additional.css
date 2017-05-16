@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
+
 #dropdown-menu-2btn-p .hide-buttons [data-button] {
   display: none !important;
 }
@@ -16,12 +17,12 @@
 }
 #dropdown-menu-2btn-p .navbar,
 #dropdown-menu-2btn-p .dropdown-menu {
-  background: #fff8e0;
+  background: #abdbf2;
 }
 #dropdown-menu-2btn-p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-p .dropdown-menu a:hover,
 #dropdown-menu-2btn-p .dropdown-menu a:focus {
-  background: #fff3cc;
+  background: #99d3ef;
 }
 #dropdown-menu-2btn-p .navbar-toggler {
   color: #000000;
@@ -33,6 +34,8 @@
 }
 #header1-f P {
   color: #fafafa;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
